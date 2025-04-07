@@ -1,0 +1,6 @@
+Product,Price,Stock,Category,Discounted Price
+Laptop,1200,10,Electronics,1080.0
+Phone,800,25,Electronics,720.0
+Tablet,300,30,Electronics,270.0
+Monitor,400,15,Accessories,360.0
+Keyboard,100,50,Accessories,90.0
